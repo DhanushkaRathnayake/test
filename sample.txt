@@ -1,3 +1,4 @@
 sample git
 
 git instruction
+commit
